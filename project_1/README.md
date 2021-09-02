@@ -10,7 +10,6 @@ The SAT has two sections of the test: Evidence-Based Reading and Writing and Mat
 Standardized tests have long been a controversial topic for students, administrators, and legislators. Since the 1940's, an increasing number of colleges have been using scores from sudents' performances on tests like the SAT and the ACT as a measure for college readiness and aptitude ([*source*](https://www.minotdailynews.com/news/local-news/2017/04/a-brief-history-of-the-sat-and-act/)). Supporters of these tests argue that these scores can be used as an objective measure to determine college admittance. Opponents of these tests claim that these tests are not accurate measures of students potential or ability and serve as an inequitable barrier to entry. Lately, more and more schools are opting to drop the SAT/ACT requirement for their Fall 2021 applications ([*read more about this here*](https://www.cnn.com/2020/04/14/us/coronavirus-colleges-sat-act-test-trnd/index.html)).
 
 
-
 **To-Do:** *Fill out this cell (or edit the above cell) with any other background or information that is necessary for your problem statement.*
 
 Are students choosing a particular test to get better results to enter their college of choice?
@@ -23,20 +22,6 @@ Are students choosing a particular test to get better results to enter their col
 * [`act_2018.csv`](./data/act_2018.csv): 2018 ACT Scores by State
 * [`sat_2017.csv`](./data/sat_2017.csv): 2017 SAT Scores by State
 * [`sat_2018.csv`](./data/sat_2018.csv): 2018 SAT Scores by State
-
----
-
-**Citations**
-<br>
-<sup>1</sup> https://www.edweek.org/teaching-learning/in-race-for-test-takers-act-outscores-sat-for-now/2017/05
-<br>
-<sup>2</sup> https://www.washingtonpost.com/education/2018/10/23/sat-reclaims-title-most-widely-used-college-admission-test/
-<br>
-<sup>3</sup>https://www.washingtonpost.com/education/2018/10/23/sat-reclaims-title-most-widely-used-college-admission-test/
-<br>
-<sup>4</sup>https://www.edweek.org/teaching-learning/sat-scores-rise-as-number-of-test-takers-tops-2-million/2018/10
-<br>
-<sup>5</sup>https://dailynorthwestern.com/2018/11/12/campus/college-board-sat-overtakes-act-for-highest-number-of-test-takers/
 
 ---
 
@@ -73,3 +58,18 @@ Provided below is a data dictionary of the dataset
 The SAT tests only have 2 sections, Evidence-Based Reading and Writing(EBRW) and Math, whereas the ACT has 4 sections, English, Math, Reading and Science. Although the SAT has portions in the EBRW which contains elements of Science, the test doesn't necessarily target the topic directly as compared to the ACT.
 
 Given that the weightage in the SAT for the 2 tests could heavily affect the total score if one paper is not done well, test takers would likely choose the ACT as it is more straightforward with it's 4 sections of testing targeted at the various topics directly.
+
+
+**Citations**
+<br>
+<sup>1</sup> https://www.edweek.org/teaching-learning/in-race-for-test-takers-act-outscores-sat-for-now/2017/05
+<br>
+<sup>2</sup> https://www.washingtonpost.com/education/2018/10/23/sat-reclaims-title-most-widely-used-college-admission-test/
+<br>
+<sup>3</sup>https://www.washingtonpost.com/education/2018/10/23/sat-reclaims-title-most-widely-used-college-admission-test/
+<br>
+<sup>4</sup>https://www.edweek.org/teaching-learning/sat-scores-rise-as-number-of-test-takers-tops-2-million/2018/10
+<br>
+<sup>5</sup>https://dailynorthwestern.com/2018/11/12/campus/college-board-sat-overtakes-act-for-highest-number-of-test-takers/
+
+---
