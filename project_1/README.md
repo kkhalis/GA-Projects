@@ -1,18 +1,14 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Standardized Test Analysis
 
 ## Problem Statement
-The SAT and ACT are standardized tests that many colleges and universities in the United States require for their admissions process. This score is used along with other materials such as grade point average (GPA) and essay responses to determine whether or not a potential student will be accepted to the university.
-
-The SAT has two sections of the test: Evidence-Based Reading and Writing and Math ([*source*](https://www.princetonreview.com/college/sat-sections)). The ACT has 4 sections: English, Mathematics, Reading, and Science, with an additional optional writing section ([*source*](https://www.act.org/content/act/en/products-and-services/the-act/scores/understanding-your-scores.html)). They have different score ranges, which you can briefly read the summary of their scoring differences ([*here*](https://blog.prepscholar.com/act-vs-sat)) :
-* [SAT](https://collegereadiness.collegeboard.org/sat)
-* [ACT](https://www.act.org/content/act/en.html)
-
-Standardized tests have long been a controversial topic for students, administrators, and legislators. Since the 1940's, an increasing number of colleges have been using scores from sudents' performances on tests like the SAT and the ACT as a measure for college readiness and aptitude ([*source*](https://www.minotdailynews.com/news/local-news/2017/04/a-brief-history-of-the-sat-and-act/)). Supporters of these tests argue that these scores can be used as an objective measure to determine college admittance. Opponents of these tests claim that these tests are not accurate measures of students potential or ability and serve as an inequitable barrier to entry. Lately, more and more schools are opting to drop the SAT/ACT requirement for their Fall 2021 applications ([*read more about this here*](https://www.cnn.com/2020/04/14/us/coronavirus-colleges-sat-act-test-trnd/index.html)).
+The SAT and ACT are standardized tests that many colleges and universities in the United States require for their admissions process. This score is used along with other materials such as grade point average (GPA) and essay responses to determine whether or not a potential student will be accepted to the university. Does the SAT need to focus on increasing participation rates? Are students choosing a particular test to get better results to enter their college of choice?
 
 
-**To-Do:** *Fill out this cell (or edit the above cell) with any other background or information that is necessary for your problem statement.*
+## Executive Summary
+Datasets from both the ACT and SAT for 2017 and 2018 were used in this analysis. Each dataset, consisting of average scores and participation rates in every state. This  would allow for a year-on-year comparison of test scores and participation rates, and also a comparison to measure the performance the tests against each other.
 
-Are students choosing a particular test to get better results to enter their college of choice?
+
+---
 
 ### Datasets
 
@@ -57,19 +53,25 @@ Provided below is a data dictionary of the dataset
 ### Conclusions & Recommendations
 The SAT tests only have 2 sections, Evidence-Based Reading and Writing (EBRW) and Math, whereas the ACT has 4 sections, English, Math, Reading and Science. Although the SAT has portions in the EBRW which contains elements of Science topics, the test doesn't necessarily target the topic directly as compared to the ACT.
 
+The redesigned SAT testing removed penalties for guessing. Test takers prior to the redesigned SAT would most likely have an adverse preference towards the SAT at that point, as test takers would need to put in more time to learn how to take the test<sup>1</sup>.
 
 
 Given that the weightage in the SAT for the 2 tests could heavily affect the total score if one paper is not done well, test takers would likely choose the ACT as it is more straightforward with its 4 sections of testing targeted at the various topics directly.
 
 
+---
+
+
 **Citations**
 <br>
-<sup>1</sup> https://www.edweek.org/teaching-learning/in-race-for-test-takers-act-outscores-sat-for-now/2017/05
+<sup>1</sup>https://www.washingtonpost.com/news/grade-point/wp/2016/03/03/as-sat-enters-a-new-era-this-week-students-say-the-exam-has-improved/
 <br>
-<sup>2</sup> https://www.washingtonpost.com/education/2018/10/23/sat-reclaims-title-most-widely-used-college-admission-test/
+<sup>2</sup> https://www.edweek.org/teaching-learning/in-race-for-test-takers-act-outscores-sat-for-now/2017/05
 <br>
-<sup>3</sup>https://www.edweek.org/teaching-learning/sat-scores-rise-as-number-of-test-takers-tops-2-million/2018/10
+<sup>3</sup> https://www.washingtonpost.com/education/2018/10/23/sat-reclaims-title-most-widely-used-college-admission-test/
 <br>
-<sup>4</sup>https://dailynorthwestern.com/2018/11/12/campus/college-board-sat-overtakes-act-for-highest-number-of-test-takers/
+<sup>4</sup>https://www.edweek.org/teaching-learning/sat-scores-rise-as-number-of-test-takers-tops-2-million/2018/10
+<br>
+<sup>5</sup>https://dailynorthwestern.com/2018/11/12/campus/college-board-sat-overtakes-act-for-highest-number-of-test-takers/
 
 ---
