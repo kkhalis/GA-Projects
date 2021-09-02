@@ -8,11 +8,11 @@ The SAT and ACT are standardized tests that many colleges and universities in th
 - [Outside Research](#Outside-Research)
 - [Datasets](#Datasets)
 - [Data Dictionary](#Data-Dictionary)
-- [Conclusions & Recommendations](#Conclusions-&-Recommendations)
+- [Conclusions and Recommendations](#Conclusions-and-Recommendations)
 
 ---
 
-## Executive Summary
+### Executive Summary
 Datasets from both the ACT and SAT for 2017 and 2018 were used in this analysis. Each dataset, consisting of average scores and participation rates in every state. This  would allow for a year-on-year comparison of test scores and participation rates, and also a comparison to measure the tests against each other.
 
 ---
@@ -78,7 +78,7 @@ Provided below is a data dictionary of the dataset
 
 ---
 
-### Conclusions & Recommendations
+### Conclusions and Recommendations
 From the findings above, we can see that the ACT and SAT average composite and total scores are inversely correlated with their participation rates in the respective states. This is likely due to selection bias, where we see test takers participating in low participation states tend to score better, and states with higher participation have a diluted average of scores due to the higher amount of participants.
 
 The focus should be shifted to providing better test preparation resources, instead of increasing participation rates. Contracts with the College Board to push higher participation of SAT wouldn't help students if they were not prepared to handle the sections offered, as compared to the ACT.
