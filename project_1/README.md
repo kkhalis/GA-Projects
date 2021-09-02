@@ -4,6 +4,8 @@
 The SAT and ACT are standardized tests that many colleges and universities in the United States require for their admissions process. This score is used along with other materials such as grade point average (GPA) and essay responses to determine whether or not a potential student will be accepted to the university. Does the SAT need to focus on increasing participation rates? Are students choosing a particular test to get better results to enter their college of choice?
 
 
+---
+
 ## Executive Summary
 Datasets from both the ACT and SAT for 2017 and 2018 were used in this analysis. Each dataset, consisting of average scores and participation rates in every state. This  would allow for a year-on-year comparison of test scores and participation rates, and also a comparison to measure the performance the tests against each other.
 
@@ -51,12 +53,13 @@ Provided below is a data dictionary of the dataset
 ---
 
 ### Conclusions & Recommendations
-The SAT tests only have 2 sections, Evidence-Based Reading and Writing (EBRW) and Math, whereas the ACT has 4 sections, English, Math, Reading and Science. Although the SAT has portions in the EBRW which contains elements of Science topics, the test doesn't necessarily target the topic directly as compared to the ACT.
+The SAT tests only have 2 sections, Evidence-Based Reading and Writing (EBRW) and Math, whereas the ACT has 4 sections, English, Math, Reading and Science. Although the SAT has portions in the EBRW which contains elements of Science topics, the test doesn't necessarily target the topic directly as compared to the ACT. For example, students who have a preference towards the science section might prefer to take the ACT instead, as there is a section entirely focused to science, while the SAT might put a science question occasionally in either the EBRW or math section. 
 
-The redesigned SAT testing removed penalties for guessing. Test takers prior to the redesigned SAT would most likely have an adverse preference towards the SAT at that point, as test takers would need to put in more time to learn how to take the test<sup>1</sup>.
+Additionally, because the SAT has one paper focused on math, students who are weaker in math might find their overall total score to be affected if they don't score well in the math section, since it has a higher weightage for the total score as compared to the ACT. Test takers would likely choose the ACT as it is more straightforward with its 4 sections of testing targeted at the various topics directly. However, students who are more proficient at math and EBRW would fare better if they took the SAT instead of the ACT.
 
+The redesigned SAT testing also removed penalties for guessing. Test takers prior to the redesigned SAT would most likely have an adverse preference towards the SAT at that point, as test takers would need to put in more time to learn how to take the test<sup>1</sup>.
 
-Given that the weightage in the SAT for the 2 tests could heavily affect the total score if one paper is not done well, test takers would likely choose the ACT as it is more straightforward with its 4 sections of testing targeted at the various topics directly.
+Students in various states might not have the chance to choose whether to take the ACT or SAT, as different states require different tests<sup>6</sup>. The scores for a student in a particular state which requires the SAT, might not be indicative of their true potential if they are weak in math.
 
 
 ---
@@ -73,5 +76,7 @@ Given that the weightage in the SAT for the 2 tests could heavily affect the tot
 <sup>4</sup>https://www.edweek.org/teaching-learning/sat-scores-rise-as-number-of-test-takers-tops-2-million/2018/10
 <br>
 <sup>5</sup>https://dailynorthwestern.com/2018/11/12/campus/college-board-sat-overtakes-act-for-highest-number-of-test-takers/
+<br>
+<sup>6</sup>https://blog.prepscholar.com/act-vs-sat
 
 ---
