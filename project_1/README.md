@@ -7,7 +7,7 @@ The SAT and ACT are standardized tests that many colleges and universities in th
 ---
 
 ## Executive Summary
-Datasets from both the ACT and SAT for 2017 and 2018 were used in this analysis. Each dataset, consisting of average scores and participation rates in every state. This  would allow for a year-on-year comparison of test scores and participation rates, and also a comparison to measure the performance the tests against each other.
+Datasets from both the ACT and SAT for 2017 and 2018 were used in this analysis. Each dataset, consisting of average scores and participation rates in every state. This  would allow for a year-on-year comparison of test scores and participation rates, and also a comparison to measure the tests against each other.
 
 
 ---
