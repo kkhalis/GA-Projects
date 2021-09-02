@@ -59,8 +59,11 @@ Additionally, because the SAT has one paper focused on math, students who are we
 
 The redesigned SAT testing also removed penalties for guessing. Test takers prior to the redesigned SAT would most likely have an adverse preference towards the SAT at that point, as test takers would need to put in more time to learn how to take the test<sup>1</sup>.
 
-Students in various states might not have the chance to choose whether to take the ACT or SAT, as different states require different tests<sup>6</sup>. The scores for a student in a particular state which requires the SAT, might not be indicative of their true potential if they are weak in math.
+Students in various states might not have the chance to choose whether to take the ACT or SAT, as different states require different tests<sup>6</sup>. The scores for a student in a particular state which requires the SAT, might not be indicative of their true potential if they are weak in math. -- to insert chart here? --
 
+The SAT should focus on targeting how to test an individual's problem solving skills, core thinking techniques and preparation for college, instead of increasing participation rates. Contracts with the College Board to push higher participation of SAT wouldn't help students if they were not prepared to handle the sections offered, as compared to the ACT.
+
+There are still good initiatives, such as tying up with Khan Academy to prepare students ahead for the SAT.
 
 ---
 
@@ -78,5 +81,7 @@ Students in various states might not have the chance to choose whether to take t
 <sup>5</sup>https://dailynorthwestern.com/2018/11/12/campus/college-board-sat-overtakes-act-for-highest-number-of-test-takers/
 <br>
 <sup>6</sup>https://blog.prepscholar.com/act-vs-sat
+<br>
+<sup>7</sup>https://www.newamerica.org/education-policy/edcentral/how-college-boards-aggressive-campaign-to-save-the-sat-may-kill-it/
 
 ---
