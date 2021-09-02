@@ -3,7 +3,7 @@
 ## Problem Statement
 The SAT and ACT are standardized tests that many colleges and universities in the United States require for their admissions process. This score is used along with other materials such as grade point average (GPA) and essay responses to determine whether or not a potential student will be accepted to the university.
 
-The SAT has two sections of the test: Evidence-Based Reading and Writing and Math ([*source*](https://www.princetonreview.com/college/sat-sections)). The ACT has 4 sections: English, Mathematics, Reading, and Science, with an additional optional writing section ([*source*](https://www.act.org/content/act/en/products-and-services/the-act/scores/understanding-your-scores.html)). They have different score ranges, which you can briefly read the summary of their scoring differences ([*here](https://blog.prepscholar.com/act-vs-sat)) :
+The SAT has two sections of the test: Evidence-Based Reading and Writing and Math ([*source*](https://www.princetonreview.com/college/sat-sections)). The ACT has 4 sections: English, Mathematics, Reading, and Science, with an additional optional writing section ([*source*](https://www.act.org/content/act/en/products-and-services/the-act/scores/understanding-your-scores.html)). They have different score ranges, which you can briefly read the summary of their scoring differences ([*here*](https://blog.prepscholar.com/act-vs-sat)) :
 * [SAT](https://collegereadiness.collegeboard.org/sat)
 * [ACT](https://www.act.org/content/act/en.html)
 
@@ -15,9 +15,9 @@ Standardized tests have long been a controversial topic for students, administra
 
 Are students choosing a particular test to get better results to enter their college of choice?
 
-### Choose your Data
+### Datasets
 
-There are 10 datasets included in the [`data`](./data/) folder for this project. You are required to pick **at least two** of these to complete your analysis. Feel free to use more than two if you would like, or add other relevant datasets you find online.
+4 datasets have been chosen for this project as shown below:
 
 * [`act_2017.csv`](./data/act_2017.csv): 2017 ACT Scores by State
 * [`act_2018.csv`](./data/act_2018.csv): 2018 ACT Scores by State
@@ -26,10 +26,17 @@ There are 10 datasets included in the [`data`](./data/) folder for this project.
 
 ---
 
-### Outside Research
-Based on your problem statement and your chosen datasets, spend some time doing outside research on state policies or additional information that might be relevant. Summarize your findings below. If you bring in any outside tables or charts, make sure you are explicit about having borrowed them. If you quote any text, make sure that it renders as being quoted. **Make sure that you cite your sources.**
-
-**To-Do:** *Fill out this cell with outside research or any additional background information that will support your analysis.*
+**Citations**
+<br>
+<sup>1</sup> https://www.edweek.org/teaching-learning/in-race-for-test-takers-act-outscores-sat-for-now/2017/05
+<br>
+<sup>2</sup> https://www.washingtonpost.com/education/2018/10/23/sat-reclaims-title-most-widely-used-college-admission-test/
+<br>
+<sup>3</sup>https://www.washingtonpost.com/education/2018/10/23/sat-reclaims-title-most-widely-used-college-admission-test/
+<br>
+<sup>4</sup>https://www.edweek.org/teaching-learning/sat-scores-rise-as-number-of-test-takers-tops-2-million/2018/10
+<br>
+<sup>5</sup>https://dailynorthwestern.com/2018/11/12/campus/college-board-sat-overtakes-act-for-highest-number-of-test-takers/
 
 ---
 
