@@ -1,14 +1,40 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Standardized Test Analysis
 
 ## Problem Statement
-The SAT and ACT are standardized tests that many colleges and universities in the United States require for their admissions process. This score is used along with other materials such as grade point average (GPA) and essay responses to determine whether or not a potential student will be accepted to the university. Does the SAT need to focus on increasing participation rates? Are students choosing a particular test to get better results to enter their college of choice?
+The SAT and ACT are standardized tests that many colleges and universities in the United States require for their admissions process. This score is used along with other materials such as grade point average (GPA) and essay responses to determine whether or not a potential student will be accepted to the university. Does the SAT need to focus on increasing participation rates? How would participating in one of test affect a student in terms of scoring? 
 
+### Contents:
+- [Executive Summary](#Executive-Summary)
+- [Outside Research](#Outside-Research)
+- [Datasets](#Datasets)
+- [Data Dictionary](#Data-Dictionary)
+- [Conclusions & Recommendations](#Conclusions-&-Recommendations)
 
 ---
 
 ## Executive Summary
 Datasets from both the ACT and SAT for 2017 and 2018 were used in this analysis. Each dataset, consisting of average scores and participation rates in every state. This  would allow for a year-on-year comparison of test scores and participation rates, and also a comparison to measure the tests against each other.
 
+---
+
+### Outside Research
+Averaging ACT or SAT scores by state helps colleges to set standards for admission, likely towards public universities with automatic admissions for in-state students <sup>1</sup>. Thus, it does carry a slight benefit for students looking to enter universities via such automatic admissions from their in-state colleges. There are other factors too, such as tuition fees and discounts for in-state students versus out-of-state students.
+
+Although the ACT has been the reigning test since 2012, we can see a shift towards the SAT after its redesign in 2016, which removed the penalty on deducting scores for getting the wrong answer. However, there are other push factors on seeing the increase in acceptance for SAT in some states. The College Board pushes for statewide testing contracts, which can swing a state's staple test such as the ACT, to the SAT <sup>2,3</sup>. The College Board has also partnered with Khan Academy for free SAT preparation. This in turn would promote higher participation rates to the SAT.
+
+The SAT tests only have 2 sections, Evidence-Based Reading and Writing (EBRW) and Math, whereas the ACT has 4 sections, English, Math, Reading and Science. Although the SAT has portions in the EBRW which contains elements of Science topics, the test doesn't necessarily target the topic directly as compared to the ACT. Additionally, because the SAT has one paper focused on math, students who are weaker in math might find their overall total score to be affected due to a higher weightage for the total score as compared to the ACT. Test takers would likely choose the ACT as it is more straightforward with its 4 sections of testing targeted at the various topics directly. However, students who are more proficient at math and EBRW would fare better if they took the SAT instead of the ACT.
+
+Students in various states might not have the chance to choose whether to take the ACT or SAT, as different states require different tests. The scores for a student in a particular state which requires the SAT, might not be indicative of their true potential if they are weak in math, or even poor English speakers, who might not be able to quickly understand and solve problems <sup>4</sup>.
+
+**Citations**
+<br>
+<sup>1</sup> https://magoosh.com/hs/sat/average-sat-scores-by-state-how-does-your-state-stack-up/
+<br>
+<sup>2</sup> https://www.edweek.org/teaching-learning/illinois-chooses-sat-over-act-for-statewide-college-readiness-testing/2015/12
+<br>
+<sup>3</sup> https://www.newamerica.org/education-policy/edcentral/how-college-boards-aggressive-campaign-to-save-the-sat-may-kill-it/
+<br>
+<sup>4</sup> https://www.reuters.com/investigates/special-report/college-sat-redesign
 
 ---
 
@@ -53,35 +79,8 @@ Provided below is a data dictionary of the dataset
 ---
 
 ### Conclusions & Recommendations
-The SAT tests only have 2 sections, Evidence-Based Reading and Writing (EBRW) and Math, whereas the ACT has 4 sections, English, Math, Reading and Science. Although the SAT has portions in the EBRW which contains elements of Science topics, the test doesn't necessarily target the topic directly as compared to the ACT. For example, students who have a preference towards the science section might prefer to take the ACT instead, as there is a section entirely focused to science, while the SAT might put a science question occasionally in either the EBRW or math section. 
+From the findings above, we can see that the ACT and SAT average composite and total scores are inversely correlated with their participation rates in the respective states. This is likely due to selection bias, where we see test takers participating in low participation states tend to score better, and states with higher participation have a diluted average of scores due to the higher amount of participants.
 
-Additionally, because the SAT has one paper focused on math, students who are weaker in math might find their overall total score to be affected if they don't score well in the math section, since it has a higher weightage for the total score as compared to the ACT. Test takers would likely choose the ACT as it is more straightforward with its 4 sections of testing targeted at the various topics directly. However, students who are more proficient at math and EBRW would fare better if they took the SAT instead of the ACT.
-
-The redesigned SAT testing also removed penalties for guessing. Test takers prior to the redesigned SAT would most likely have an adverse preference towards the SAT at that point, as test takers would need to put in more time to learn how to take the test<sup>1</sup>.
-
-Students in various states might not have the chance to choose whether to take the ACT or SAT, as different states require different tests<sup>6</sup>. The scores for a student in a particular state which requires the SAT, might not be indicative of their true potential if they are weak in math. -- to insert chart here? --
-
-The SAT should focus on targeting how to test an individual's problem solving skills, core thinking techniques and preparation for college, instead of increasing participation rates. Contracts with the College Board to push higher participation of SAT wouldn't help students if they were not prepared to handle the sections offered, as compared to the ACT.
-
-There are still good initiatives, such as tying up with Khan Academy to prepare students ahead for the SAT.
-
----
+The focus should be shifted to providing better test preparation resources, instead of increasing participation rates. Contracts with the College Board to push higher participation of SAT wouldn't help students if they were not prepared to handle the sections offered, as compared to the ACT.
 
 
-**Citations**
-<br>
-<sup>1</sup>https://www.washingtonpost.com/news/grade-point/wp/2016/03/03/as-sat-enters-a-new-era-this-week-students-say-the-exam-has-improved/
-<br>
-<sup>2</sup> https://www.edweek.org/teaching-learning/in-race-for-test-takers-act-outscores-sat-for-now/2017/05
-<br>
-<sup>3</sup> https://www.washingtonpost.com/education/2018/10/23/sat-reclaims-title-most-widely-used-college-admission-test/
-<br>
-<sup>4</sup>https://www.edweek.org/teaching-learning/sat-scores-rise-as-number-of-test-takers-tops-2-million/2018/10
-<br>
-<sup>5</sup>https://dailynorthwestern.com/2018/11/12/campus/college-board-sat-overtakes-act-for-highest-number-of-test-takers/
-<br>
-<sup>6</sup>https://blog.prepscholar.com/act-vs-sat
-<br>
-<sup>7</sup>https://www.newamerica.org/education-policy/edcentral/how-college-boards-aggressive-campaign-to-save-the-sat-may-kill-it/
-
----
