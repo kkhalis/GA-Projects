@@ -86,4 +86,4 @@ The focus should be shifted to providing better test preparation resources, inst
 ---
 
 ### Slides
-Link to slides can be found ([here] https://docs.google.com/presentation/d/18xNWBXwIvc-aRzeFb72Xt-L-ftPIY-zVLYRrdMF4oqU/edit?usp=sharing).
+Link to slides can be found [*here*](https://docs.google.com/presentation/d/18xNWBXwIvc-aRzeFb72Xt-L-ftPIY-zVLYRrdMF4oqU/edit?usp=sharing).
