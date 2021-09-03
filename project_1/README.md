@@ -83,4 +83,7 @@ From the findings above, we can see that the ACT and SAT average composite and t
 
 The focus should be shifted to providing better test preparation resources, instead of increasing participation rates. Contracts with the College Board to push higher participation of SAT wouldn't help students if they were not prepared to handle the sections offered, as compared to the ACT.
 
+---
 
+### Slides
+Link to slides can be found ([here] https://docs.google.com/presentation/d/18xNWBXwIvc-aRzeFb72Xt-L-ftPIY-zVLYRrdMF4oqU/edit?usp=sharing).
