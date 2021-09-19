@@ -1,10 +1,14 @@
 # Project 2 - Ames Housing Data and Kaggle Challenge
 
+---
+
 ## Problem Statement
 The Ames Housing board is looking to see how we can predict the prices of future houses, based on a list of features. These features are a combination of nominal, ordinal, continuous and discrete values.
 
 To do that, the board has tasked you and the team to create a prediction model that can predict the prices of houses within Ames, given a list of features that may or may not contribute to the sale price of a house.
 Welcome to Project 2! It's time to start modeling.
+
+---
 
 ### Contents
 * Data import, helper functions, cleaning and mapping of ordinal values
@@ -12,6 +16,8 @@ Welcome to Project 2! It's time to start modeling.
 * Testing on Various Regression Models
 * Applying our selected model on the Kaggle test set
 * Conclusion
+
+---
 
 ### Datasets
 2 datasets have been used for this project as shown below:
@@ -21,6 +27,8 @@ Welcome to Project 2! It's time to start modeling.
 
 ### Data Dictionary
 You can access the data dictionary, split into markdown format [*here*](https://github.com/kkhalis/GA-Projects/blob/master/project_2/DataDictionary.md).
+
+---
 
 ### Conclusion
 On submission to Kaggle, the best performing score for prediction was 24338.24.
@@ -37,5 +45,7 @@ While doing multiple runs over various subsets of data (e.g, correlation coeffic
 | > 10%|32|25343|25085|25339|25086|
 
 Although interaction terms did help to improve the score, applying Polynomial features across the set may help to improve the accuracy of the model.
+
+---
 
 Presentation slides can be found [*here*](https://docs.google.com/presentation/d/1W-U_6W32IP5Oh4XHre0GjcRVlr4jo0FOwydsHqSQ7rc/edit?usp=sharing).
