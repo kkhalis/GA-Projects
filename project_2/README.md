@@ -6,7 +6,6 @@
 The Ames Housing board is looking to see how we can predict the prices of future houses, based on a list of features. These features are a combination of nominal, ordinal, continuous and discrete values.
 
 To do that, the board has tasked you and the team to create a prediction model that can predict the prices of houses within Ames, given a list of features that may or may not contribute to the sale price of a house.
-Welcome to Project 2! It's time to start modeling.
 
 ---
 
